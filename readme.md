@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" alt="Banner GIF" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="270" alt="Banner GIF" style="border-radius: 15px;" />
   
   <br/><br/>
-  
   <h1>Hi there, I'm Harshvardhan Singh Shekhawat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
   <p align="center">
