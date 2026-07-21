@@ -1,7 +1,5 @@
 <div align="center">
-  <!-- ☝️ UPSIDE SPACE FOR A GIF BANNER ☝️ -->
-  <!-- Replace the src URL with your preferred GIF (e.g., from Giphy or an Imgur link) -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" alt="Banner GIF" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" alt="Banner GIF" style="border-radius: 15px;" />
   
   <br/><br/>
   
@@ -14,9 +12,8 @@
   </p>
   
   <p align="center">
-    <!-- Hoverable badge links -->
     <a href="https://www.linkedin.com/in/harshvardhan-singh-shekhawat-016a3834b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/harshrtr07-dhruv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
 
@@ -58,8 +55,7 @@ I am a second-year B.Tech CS student deeply passionate about building scalable w
 ### ❖ GitHub Stats & Contribution Snake
 
 <div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub handle -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshrtr07-dhruv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <br/>
@@ -67,8 +63,8 @@ I am a second-year B.Tech CS student deeply passionate about building scalable w
 <div align="center">
   <!-- The Snake Game contribution graph -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshrtr07-dhruv/harshrtr07-dhruv/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshrtr07-dhruv/harshrtr07-dhruv/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshrtr07-dhruv/harshrtr07-dhruv/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
